@@ -6,4 +6,5 @@ public class EmailSender
     {
         Console.WriteLine($"Sending payment receipt email to {email} for amount {amount}...");
     }
+    //text for new commit
 }
